@@ -1,0 +1,27 @@
+start_time        : 1507041693
+last_update       : 1507213446
+fuzzer_pid        : 5484
+cycles_done       : 160
+execs_done        : 11016266
+execs_per_sec     : 67.97
+paths_total       : 1005
+paths_favored     : 75
+paths_found       : 351
+paths_imported    : 649
+max_depth         : 10
+cur_path          : 289
+pending_favs      : 0
+pending_total     : 0
+variable_paths    : 0
+stability         : 100.00%
+bitmap_cvg        : 4.66%
+unique_crashes    : 0
+unique_hangs      : 0
+last_path         : 1507206691
+last_crash        : 0
+last_hang         : 0
+execs_since_crash : 11016266
+exec_timeout      : 60
+afl_banner        : fuzzer8
+afl_version       : 2.51b
+command_line      : /home/bperry/afl/afl-2.51b/afl-fuzz -i jacosub/ -o jacosync/ -m none -S fuzzer8 -- /home/bperry/afl/FFmpeg-master/ffmpeg -f jacosub -i -

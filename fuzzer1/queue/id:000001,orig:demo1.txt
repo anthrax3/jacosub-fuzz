@@ -1,0 +1,8 @@
+0:00:10.11 0:00:12.00 D {fudo-ikiteru} It's alive!
+0:00:10.11 0:00:12.00 D {fudo-ikiteru}It's alive!
+0:00:10.11 0:00:12.00 D It's alive!{line doesn't start with a comment}
+0:00:10.11 0:00:12.00 {fudo-ikiteru} It's alive!{starts with a comment}
+0:00:10.11 0:00:12.00 [default] {fudo-ikiteru} It's alive!\
+              {this assumes the D directive was named to "default"}
+
+

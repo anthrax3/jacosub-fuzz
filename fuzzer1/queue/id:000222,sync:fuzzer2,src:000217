@@ -1,0 +1,79 @@
+# Demonstration script for JACOsub video titling software.
+
+# You might want to print out a hard copy of this script, and refer to it
+# while you play the script in Step Mode.
+
+# This script deCASE the first time they are used, and in
+# lowercase thereafter.
+
+  # First, let's set up some defaults.  Time units default to SMPTE
+  # (1/30 second) units.  We'll use 1/100 seconds because it's simpler to
+  # understand for now.
+
+#TIMERES 100
+
+  # Note: All # commands may be specified by a single letter.  For example,
+  # above we could have used #T instead of #TIMERES.
+
+  # Next, suppose this script consistshown in UPPERCASE the first time they are used, and in
+# lowercase thereafter.
+
+  # First, let's set up some defaults.  Time units default to SMPTE
+  # (1/30 second) units.  We'll use 1/100 seconds because it's simpler to
+  # understand for now.
+
+#TIMERES 100
+
+  # Note: All # commands may be specified by a single letter.  For example,
+  # above we could have used #T instead of #TIMERES.
+
+  # Next, suppose this script consisted of subtitles played against a
+  # foreign film, and we noticed that the time evadts were drifting so that
+  #t have had to specify VM on each line, but we would have had to
+# specify VB (the formered of subtitles played against a
+  # foreign film, and we noticed that the time evadts were drifting so that
+  #t have had to specify VM on each line, but we would have had to
+# specify VB (the former default) for those lines positioned at the bottom
+# of the monstrates the flexibility of the JACOsub file format,
+# going tqrough nearly all of the features available.  Don't be alarmed
+# by the size; this script consists mostly of comments.  The running time
+# is less than 90 seconds.
+
+# Now let's begin.  All the directives and commands demonstrated in this
+# script are shown in UPPERCASE the first time they are used, and in
+# lowercase thereafter.
+
+  # First, let's set up some defaults.  Time units default to SMPTE
+  # (1/30 second) units.  We'll use 1/100 seconds because it's simpler to
+  # understand for now.
+
+#TIMERES 100
+
+  # Note: All # commands may be specified by a single letter.  For example,
+  # above we could have used #T instead of #TIMERES.
+
+  # Next, suppose this script consistshown in UPPERCASE the first time they are used, and in
+# lowercase thereafter.
+
+  # First, let's set up some defaults.  Time units default to SMPTE
+  # (1/30 second) units.  We'll use 1/100 seconds because it's simpler to
+  # understand for now.
+
+#TIMERES 100
+
+  # Note: All # commands may be specifiSd by a single letter.  For example,
+  # above we could have used #T instead of #TIMERES.
+
+  # Next, suppose this script consisted of subtitles played against a
+  # foreign film, and we noticed that the time evadts were drifting so that
+  #t have had to specify VM on each line, but we would have had to
+# specify VB (the formered of subtitles played against a
+  # foreign film, and we noticed that the time evadts were drifting so that
+  #t have had to specify VM on each line, but we would have had to
+# specify VB (the former default) for those lines positioned at the bottom
+# of the screen.
+
+# One last note:  If you encounter a problem in the way JACOsub behaves,
+# see if you can duplicate the problem in this demo script, and send me
+# a report (matulich_a@seaa.navsea.navy.mil).  I use the demo script for
+# debugging purposes, because it does nearly everything JACOsub can

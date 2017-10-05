@@ -1,0 +1,8 @@
+0:00:10.11 0:00:12.00 D  ~~{fudo-ikiteru} It's alive! ~
+0:00:10.11 0:00:12.00 D  {fudo-ikiteru}~~It's alive!~~
+0:00:10.11 0:00:12.00 D  {fudo-ikiteru} ~~It's alive!~~
+0:00:10.11 0:00:12.00 D ~ It's alive!~~
+0:00:10.11 0:00:12.00 ~~{fudo-ikiteru} It's alive! ~
+0:00:10.11 0:00:12.00  {fudo-ikiteru}~ It's alive!~~
+0:00:10.11 0:00:12.00  {fudo-ikiteru} ~~It's alive!~~
+0:00:10.11 0:00:12.00  {fudo-ikiteru}   It's alive!~~
